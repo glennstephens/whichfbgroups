@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinFacebookGroups", "XamarinFacebookGroups.csproj", "{33CFE7E4-B258-41A7-A7F3-F07718C9A6CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33CFE7E4-B258-41A7-A7F3-F07718C9A6CB}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{33CFE7E4-B258-41A7-A7F3-F07718C9A6CB}.Debug|iPhone.Build.0 = Debug|iPhone
+		{33CFE7E4-B258-41A7-A7F3-F07718C9A6CB}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{33CFE7E4-B258-41A7-A7F3-F07718C9A6CB}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{33CFE7E4-B258-41A7-A7F3-F07718C9A6CB}.Release|iPhone.ActiveCfg = Release|iPhone
+		{33CFE7E4-B258-41A7-A7F3-F07718C9A6CB}.Release|iPhone.Build.0 = Release|iPhone
+		{33CFE7E4-B258-41A7-A7F3-F07718C9A6CB}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{33CFE7E4-B258-41A7-A7F3-F07718C9A6CB}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
